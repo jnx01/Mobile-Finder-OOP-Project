@@ -1,0 +1,138 @@
+
+Sales Report
+
+Period: 23/02/2019 to 20/04/2020
+
+
+C11
+Realme
+25000
+Android
+3
+6.3
+12
+Plastic
+20190624
+Jahanzeb Naeem
+315-1111-111
+1234234
+
+X
+OnePlus
+65000
+Android
+8
+6.8
+24
+Metal-Glass
+20200316
+Zain Asif
+323-1234-123
+5678678
+
+Narzo
+Realme
+40000
+Android
+4
+6.5
+13
+Plastic
+20190610
+Imran Afzal
+356-2314-778
+234124234
+
+iPhone11
+Apple
+130000
+iOS
+6
+6.2
+20
+Metal
+20200121
+Faisal Javed
+365-2342-667
+86784764
+
+Note9
+Xiaomi
+30000
+Android
+3
+6
+12
+Plastic
+20190822
+Noor Afzal
+362-3456-677
+234124334
+
+iPhoneSE
+Apple
+100000
+iOS
+6
+6
+12
+Plastic
+20200227
+Kiran Aftab
+382-4353-567
+23423445
+
+A70
+Samsung
+40000
+Android
+8
+6.5
+48
+Plastic
+20200124
+Faisal Karim
+372-3457-454
+234456578
+
+C11
+Realme
+25000
+Android
+3
+6.3
+12
+Plastic
+20190329
+Aiza Faisal
+342-6785-324
+56776533
+
+Note10
+Xiaomi
+80000
+Android
+12
+6.6
+108
+Metal
+20200215
+Kamran Ali
+324-1234-121
+54233453
+
+iPhone11
+Apple
+130000
+iOS
+6
+6.2
+20
+Metal
+20191216
+Faiza Ahmad
+361-2131-354
+45675764
+
+
+Total revenue generated: 665000
